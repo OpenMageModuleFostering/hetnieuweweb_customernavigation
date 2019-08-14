@@ -3,7 +3,7 @@
 <config>
 	<modules>
 		<HetNieuweWeb_CustomerNavigation>
-			<version>0.1.0</version>
+			<version>0.2.0</version>
 		</HetNieuweWeb_CustomerNavigation>
 	</modules>
 	
@@ -35,7 +35,7 @@
 	
 	<default>
 		<customer_navigation>
-			<settings>
+			<display>
 				<account>1</account>
 				<account_edit>1</account_edit>
 				<address_book>1</address_book>
@@ -48,7 +48,7 @@
 				<oauth_customer_tokens>1</oauth_customer_tokens>
 				<newsletter>1</newsletter>
 				<downloadable_products>1</downloadable_products>
-			</settings>
+			</display>
 		</customer_navigation>
 	</default>
 </config>
