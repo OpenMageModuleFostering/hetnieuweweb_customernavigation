@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/HetNieuweWeb_CustomerNavigation",
+    "name": "OpenMageModuleFostering\/HetNieuweWeb_CustomerNavigation",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Manage customer dashboard navigation menu.",
     "authors": [
-    {
-        "name": "Gerard de Visser",
-        "email": "gerarddevisser@gmail.com"
-    }
-],
+        {
+            "name": "Gerard de Visser",
+            "email": "gerarddevisser@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
